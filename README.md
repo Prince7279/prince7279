@@ -2,7 +2,9 @@
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [FOOD WEBSITES](https://animated-food-website-da2c.vercel.app/)
+-  i am currently pursuing diploma at Govt.polytechnic dumka ..
+
+- 🔭 I’m currently done my project [FOOD WEBSITES](https://animated-food-website-da2c.vercel.app/)
 
 - 🌱 I’m currently learning **JAVASCRIPT , REACT JS AND OTHER UDEMY COURSES**
 
