@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PRINCE KUMAR</h1>
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on [FOOD WEBSITES](https://animated-food-website-da2c.vercel.app/)
