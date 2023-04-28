@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
--  i am currently pursuing diploma at Govt.polytechnic dumka ..
+-  I am currently pursuing diploma at Government Polytechnic Dumka ..
 
 - 🔭 I’m currently done my project [FOOD WEBSITES](https://animated-food-website-da2c.vercel.app/)
 
