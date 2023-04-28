@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm PRINCE KUMAR</h1>
-https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif
+[https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif
+](https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif)
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on [FOOD WEBSITES](https://animated-food-website-da2c.vercel.app/)
