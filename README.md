@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [FOOD WEBSITE](https://animated-food-website-da2c.vercel.app/)
+- 🔭 I’m currently Done my project- [FOOD WEBSITE](https://animated-food-website-da2c.vercel.app/)
 
 - 🤝 I am currently pursuing **diploma at Government Polytechnic Dumka ..**
 
